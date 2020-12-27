@@ -1,4 +1,4 @@
-# Java knowledge competition - BilgiYarismasi
+# Java knowledge competition - Bilgi Yarışması
 
 # Register - Kayıt Ol
 ![kayıtol](https://user-images.githubusercontent.com/47866774/103170760-e66a1a80-4857-11eb-8eff-f055643326db.png) <br/><br/><br/>
